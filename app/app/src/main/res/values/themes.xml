@@ -1,0 +1,8 @@
+<resources>
+<style name="Theme.SAFEX" parent="android:style/Theme.Material.Light.NoActionBar">
+    <item name="android:fontFamily">sans</item>
+    <item name="android:windowLightStatusBar">false</item>
+    <item name="android:statusBarColor">#07111f</item>
+    <item name="android:navigationBarColor">#07111f</item>
+</style>
+</resources>
